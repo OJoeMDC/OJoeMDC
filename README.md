@@ -46,7 +46,7 @@ Currently expanding my skills in:
 
 ## Portfolio
 
-Portfolio: :contentReference[oaicite:0]{index=0}
+Website: [osceoladev.com](https://osceoladev.com)
 
 <!--
 **OJoeMDC/OJoeMDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
