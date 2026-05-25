@@ -29,14 +29,17 @@ Full-Stack Developer with a focus on building modern web applications and cloud-
 ## Current Focus
 
 Currently expanding my skills in:
-- Cloud Architecture
-- Serverless Development
-- Infrastructure & Networking
-- AWS Services
+- Full-Stack Projects
+- Cloud Deployments (AWS, CloudFlare)
 - DevOps Concepts
+- AWS Services
 
 ## Certifications
 
+- COITB HTML/CSS
+- COITB JavaScript
+- COITB MySQL
+- COITB React
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
