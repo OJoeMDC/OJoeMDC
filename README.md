@@ -1,8 +1,8 @@
-# Osceola Dev
+# Osceola Martin del Campo — Full-Stack Developer
 
-Full-Stack Developer with a focus on building modern web applications and cloud-based systems.
+Full-Stack Developer focused on building modern web applications and cloud-based systems.
 
-## Experience
+## Tech Stack
 
 ### Frontend
 - React
@@ -21,18 +21,10 @@ Full-Stack Developer with a focus on building modern web applications and cloud-
 ### Cloud & IT
 - AWS
 - Azure
-- Git/GitHub
+- Git / GitHub
 - Networking
 - Active Directory
 - VMware
-
-## Current Focus
-
-Currently expanding my skills in:
-- Full-Stack Projects
-- Cloud Deployments (AWS, CloudFlare)
-- DevOps Concepts
-- AWS Services
 
 ## Certifications
 
@@ -44,21 +36,29 @@ Currently expanding my skills in:
 - CompTIA Network+
 - CompTIA Security+
 
+## Current Focus
+
+- Full-Stack Projects
+- Cloud Deployments (AWS, CloudFlare)
+- DevOps Concepts
+- AWS Services
+
+## Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Osceola-portfolio](https://github.com/OJoeMDC/Osceola-portfolio) | Personal portfolio website with admin panel | React, Vite, AWS |
+| [Weather-app](https://github.com/OJoeMDC/Weather-app) | 7-day weather forecast app | React, Vite, WeatherAPI |
+
 ## Portfolio
 
-Website: [osceoladev.com](https://osceoladev.com)
+Website: [osceoladev.com](https://osceoladev.com/)
 
-<!--
-**OJoeMDC/OJoeMDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect
 
-Here are some ideas to get you started:
+- Email: ojoe.mdc@gmail.com
+- LinkedIn: [Osceola Martin del Campo](https://www.linkedin.com/in/osceola-martin-del-campo-0ab1b6328)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*This profile and its projects were built with the assistance of **ChatGPT**, which helped with code development, debugging, and project setup.*
