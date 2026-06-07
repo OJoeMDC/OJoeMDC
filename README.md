@@ -47,18 +47,19 @@ Full-Stack Developer focused on building modern web applications and cloud-based
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Osceola-portfolio](https://github.com/OJoeMDC/Osceola-portfolio) | Personal portfolio website with admin panel | React, Vite, AWS |
-| [Weather-app](https://github.com/OJoeMDC/Weather-app) | 7-day weather forecast app | React, Vite, WeatherAPI |
+| Osceola-portfolio | Personal portfolio website with admin panel | React, Vite, AWS |
+| Weather-app | 7-day weather forecast app | React, Vite, WeatherAPI |
+| Task-Manager | Full-stack task management app with persistent SQLite | React, Vite, Express, SQLite, Railway |
 
 ## Portfolio
 
-Website: [osceoladev.com](https://osceoladev.com/)
+Website: osceoladev.com
 
 ## Connect
 
 - Email: ojoe.mdc@gmail.com
-- LinkedIn: [Osceola Martin del Campo](https://www.linkedin.com/in/osceola-martin-del-campo-0ab1b6328)
+- LinkedIn: Osceola Martin del Campo
 
 ---
 
-*This profile and its projects were built with the assistance of **ChatGPT**, which helped with code development, debugging, and project setup.*
+*This profile and its projects were built with the assistance of AI, which helped with code development, debugging, and project setup.*
