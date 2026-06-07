@@ -48,7 +48,7 @@ Full-Stack Developer focused on building modern web applications and cloud-based
 | Project | Description | Tech |
 |---------|-------------|------|
 | Osceola-portfolio | Personal portfolio website with admin panel | React, Vite, AWS |
-| Weather-app | 7-day weather forecast app | React, Vite, WeatherAPI |
+| Weather-app | 3-day weather forecast app | React, Vite, WeatherAPI |
 | Task-Manager | Full-stack task management app with persistent SQLite | React, Vite, Express, SQLite, Railway |
 
 ## Portfolio
