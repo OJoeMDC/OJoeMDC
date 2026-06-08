@@ -45,11 +45,11 @@ Full-Stack Developer focused on building modern web applications and cloud-based
 
 ## Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Osceola-portfolio](https://github.com/OJoeMDC/Osceola-portfolio) | Personal portfolio website with admin panel | React, Vite, AWS |
-| [Weather-app](https://github.com/OJoeMDC/Weather-app) | 3-day weather forecast app | React, Vite, WeatherAPI |
-| [Task-Manager](https://github.com/OJoeMDC/Task-Manager) | Full-stack task management app with persistent SQLite | React, Vite, Express, SQLite, Railway |
+| Project | Live Demo | Tech |
+|---------|-----------|------|
+| [Portfolio](https://github.com/OJoeMDC/Osceola-portfolio) | [Visit](https://osceoladev.com) | React, Vite, AWS |
+| [Weather App](https://github.com/OJoeMDC/Weather-app) |  | React, Vite, WeatherAPI |
+| [Task Manager](https://github.com/OJoeMDC/Task-Manager) | [Visit](https://bubbly-reprieve-production-4d0b.up.railway.app) | React, Vite, Express, SQLite |
 
 ## Portfolio
 
