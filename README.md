@@ -53,12 +53,12 @@ Full-Stack Developer focused on building modern web applications and cloud-based
 
 ## Portfolio
 
-Website: osceoladev.com
+Website: [OsceolaDev.com](https://osceoladev.com)
 
 ## Connect
 
 - Email: ojoe.mdc@gmail.com
-- LinkedIn: Osceola Martin del Campo
+- LinkedIn: [Osceola Martin del Campo](https://www.linkedin.com/in/osceola-martin-del-campo-0ab1b6328/)
 
 ---
 
